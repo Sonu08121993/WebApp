@@ -4,5 +4,6 @@ public class aa {
     System.out.println("jhjhuj");
     System.out.println("junior");
     System.out.println("jj");
+    System.out.println("kk");
   }
 }
